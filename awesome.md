@@ -6,3 +6,7 @@ I love awesome lists. Here are the best ones
 - [Awesome self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome split keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 - [Awesome Raspberry Pi](https://github.com/samyk/awesome-raspberrypi)
+- [Awesome (Gem-Packaged) Jekyll Themes](https://github.com/planetjekyll/awesome-jekyll-themes)
+- [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll)
+- [Awesome Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
+- [Awesome (Gem-Packaged) Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
