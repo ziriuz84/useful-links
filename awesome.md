@@ -10,3 +10,7 @@ I love awesome lists. Here are the best ones
 - [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll)
 - [Awesome Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 - [Awesome (Gem-Packaged) Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books/)
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
