@@ -9,9 +9,13 @@ Useful guides around the web
 - [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll)
 - [Awesome Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 - [Awesome (Gem-Packaged) Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+- [Jekyll Cheatsheet](https://cloudcannon.com/community/jekyll-cheat-sheet/)
 
 ## ZSH
 - [Powerline on zsh](https://fmacedoo.medium.com/oh-my-zsh-with-powerline-fonts-pretty-simple-as-you-deserve-fbe7f6d23723)
+
+## Python
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 
 ## Google services
 - [Google map localization](https://developers.google.com/maps/documentation/javascript/localization)
