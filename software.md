@@ -10,3 +10,4 @@ Useful software and frameworks
 
 ## Various
 - [Qrcode generator with api](https://qrcode.show/)
+- [Semmle code analyzer](https://lgtm.com/)
