@@ -1,4 +1,9 @@
+---
+modified: 2021-09-26T11:11:41+02:00
+---
+
 # Software
+
 Useful software and frameworks
 
 ## Libraries
@@ -11,3 +16,4 @@ Useful software and frameworks
 ## Various
 - [Qrcode generator with api](https://qrcode.show/)
 - [Semmle code analyzer](https://lgtm.com/)
+- [How to Generate Temporary Email Addresses Using the Linux Terminal](https://www.makeuseof.com/generate-temporary-email-addresses-using-linux-command-line/)
