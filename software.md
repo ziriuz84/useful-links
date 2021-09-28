@@ -1,5 +1,5 @@
 ---
-modified: 2021-09-26T11:11:41+02:00
+modified: 2021-09-28T07:45:35+02:00
 ---
 
 # Software
@@ -12,6 +12,8 @@ Useful software and frameworks
 ### Python
 - [PyInstaller](http://www.pyinstaller.org)
 - [Jedi installation](https://jedi.readthedocs.io/en/latest/docs/installation.html)
+
+## My setup
 
 ## Various
 - [Qrcode generator with api](https://qrcode.show/)
