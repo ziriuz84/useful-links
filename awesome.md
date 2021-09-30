@@ -14,3 +14,7 @@ I love awesome lists. Here are the best ones
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
+- [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
+- [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy)
+- [Books](https://github.com/learn-anything/books)
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
