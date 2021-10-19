@@ -14,3 +14,5 @@ I love awesome lists. Here are the best ones
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
+- [WebDevsCom](https://webdevscom.github.io/)
+- [100+ Data Science, Deep Learning, AI & Machine Learning Cheat Sheet PDF](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html)

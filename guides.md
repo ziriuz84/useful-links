@@ -16,6 +16,7 @@ Useful guides around the web
 
 ## Python
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- [Send Daily Push Notifications to Your Phone Using Python](https://morioh.com/p/392a97fcc080)
 
 ## Google services
 - [Google map localization](https://developers.google.com/maps/documentation/javascript/localization)
