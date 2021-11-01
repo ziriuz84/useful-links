@@ -20,3 +20,6 @@ Useful guides around the web
 
 ## Google services
 - [Google map localization](https://developers.google.com/maps/documentation/javascript/localization)
+
+## Bootstrap
+- [Bootstrap tutorial](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
