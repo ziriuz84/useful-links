@@ -19,3 +19,7 @@ I love awesome lists. Here are the best ones
 - [Awesome Hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest-2021)
 - [Awesome Developer Dictionary](https://github.com/dephraiim/awesome-developer-dictionary)
 - [Awesome Courses](https://github.com/romulomourao/awesome-courses)
+- [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
+- [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy)
+- [Books](https://github.com/learn-anything/books)
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)

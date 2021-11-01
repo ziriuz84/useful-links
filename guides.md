@@ -2,6 +2,11 @@
 
 Useful guides around the web
 
+## Generic
+
+- [Corso di Ingegneria del Software](http://www.dia.uniroma3.it/~pizzonia/swe/)
+- [Guida in italiano a Visidata](https://github.com/ondata/guidaVisiData/tree/master/testo)
+
 ## Jekyll
 - [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 - [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
