@@ -23,3 +23,4 @@ I love awesome lists. Here are the best ones
 - [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy)
 - [Books](https://github.com/learn-anything/books)
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
+- [Awesome Italia Projects](https://github.com/italia/awesome-italia)

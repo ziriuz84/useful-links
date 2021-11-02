@@ -24,16 +24,19 @@ Useful software and frameworks
 ### CSS
 - [CSSFX](https://cssfx.netlify.app/)
 - [Bootstrap Cheatsheet](https://websitesetup.org/wp-content/uploads/2020/03/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf)
+- [Hover](https://github.com/IanLunn/Hover)
 
 ## Utility
 
 ### CLI
 - [exa · a modern replacement for ls](https://the.exa.website/)
 - [File Analyzer](https://github.com/QuattroMusic/FileAnalyzer)
+- [Todux](https://github.com/sf3ris/todux)
 
 ## Vim plugin
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim#preview-window)
+- [turbio/bracey.vim](https://github.com/turbio/bracey.vim)
 
 ## Web Services
 
@@ -47,6 +50,8 @@ Useful software and frameworks
 ### Public Useful API
 
 - [Weather API](https://github.com/chubin/wttr.in)
+- [Comuni JSON](https://github.com/matteocontrini/comuni-json)
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ### AWS
 
 - [Localstack](https://github.com/localstack/localstack)
@@ -55,3 +60,6 @@ Useful software and frameworks
 - [Qrcode generator with api](https://qrcode.show/)
 - [Semmle code analyzer](https://lgtm.com/)
 - [How to Generate Temporary Email Addresses Using the Linux Terminal](https://www.makeuseof.com/generate-temporary-email-addresses-using-linux-command-line/)
+- [KeepassXC Integration in Qutebrowser](https://github.com/ususdei/qute-keepassxc)
+- [Stocazzo as a Service](https://github.com/dottorblaster/stocazzo)
+- [README.md editor](https://github.com/octokatherine/readme.so)
