@@ -28,3 +28,7 @@ Useful guides around the web
 
 ## Bootstrap
 - [Bootstrap tutorial](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
+
+## OBS
+
+- [Where to install OBS plugins? (OBS flatpack from Software manager)](https://forums.linuxmint.com/viewtopic.php?t=278509)

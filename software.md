@@ -20,6 +20,10 @@ Useful software and frameworks
 ### Python
 - [PyInstaller](http://www.pyinstaller.org)
 - [Jedi installation](https://jedi.readthedocs.io/en/latest/docs/installation.html)
+- [Pyupgrade](https://github.com/asottile/pyupgrade)
+- [Python mini projects](https://github.com/Python-World/python-mini-projects)
+- [Intermediate Python](https://t.me/link_ziriuz84/50)
+- [Python Cheatsheet](https://t.me/link_ziriuz84/51)
 
 ### CSS
 - [CSSFX](https://cssfx.netlify.app/)
@@ -32,11 +36,16 @@ Useful software and frameworks
 - [exa · a modern replacement for ls](https://the.exa.website/)
 - [File Analyzer](https://github.com/QuattroMusic/FileAnalyzer)
 - [Todux](https://github.com/sf3ris/todux)
+- [Visidata](https://github.com/saulpw/visidata)
 
 ## Vim plugin
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim#preview-window)
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim)
+- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim)
+- [ap/vim-css-color](https://github.com/ap/vim-css-color)
+- [mileszs/ack.vim](https://github.com/mileszs/ack.vim)
+- [tpope/vim-capslock](https://github.com/tpope/vim-capslock)
 
 ## Web Services
 
@@ -55,6 +64,11 @@ Useful software and frameworks
 ### AWS
 
 - [Localstack](https://github.com/localstack/localstack)
+
+### Self-hosted
+
+- [Umbrel](https://github.com/getumbrel/umbrel)
+
 
 ## Various
 - [Qrcode generator with api](https://qrcode.show/)
