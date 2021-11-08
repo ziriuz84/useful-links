@@ -30,6 +30,10 @@ Useful software and frameworks
 - [Bootstrap Cheatsheet](https://websitesetup.org/wp-content/uploads/2020/03/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf)
 - [Hover](https://github.com/IanLunn/Hover)
 
+### JS
+
+- [Gulp.js](https://gulpjs.com/)
+
 ## Utility
 
 ### CLI
@@ -37,6 +41,7 @@ Useful software and frameworks
 - [File Analyzer](https://github.com/QuattroMusic/FileAnalyzer)
 - [Todux](https://github.com/sf3ris/todux)
 - [Visidata](https://github.com/saulpw/visidata)
+- [Bat](https://github.com/sharkdp/bat)
 
 ## Vim plugin
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
