@@ -12,7 +12,12 @@ Useful software and frameworks
 ## Dotfiles
 - [denji/vim-config-frontend](https://github.com/denji/vim-config-frontend)
 
-## Libraries
+## Games
+
+- [Game of stones](http://gos.talij.com/)
+- [Coding game](https://www.codingame.com/start)
+
+## Programming
 
 ### Golang
 - [Ping package](https://pkg.go.dev/github.com/sparrc/go-ping)
@@ -24,6 +29,7 @@ Useful software and frameworks
 - [Python mini projects](https://github.com/Python-World/python-mini-projects)
 - [Intermediate Python](https://t.me/link_ziriuz84/50)
 - [Python Cheatsheet](https://t.me/link_ziriuz84/51)
+- [Urwid](http://urwid.org/)
 
 ### CSS
 - [CSSFX](https://cssfx.netlify.app/)
@@ -33,6 +39,10 @@ Useful software and frameworks
 ### JS
 
 - [Gulp.js](https://gulpjs.com/)
+
+### Jekyll
+
+- [Jekyll-menus](https://github.com/forestryio/jekyll-menus)
 
 ## Utility
 

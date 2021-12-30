@@ -22,6 +22,11 @@ Useful guides around the web
 ## Python
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Send Daily Push Notifications to Your Phone Using Python](https://morioh.com/p/392a97fcc080)
+- [PIP update all pcakages](https://dougie.io/answers/pip-update-all-packages/)
+- [Converting from .tbl to .csv format using python - Stack Overflow](https://stackoverflow.com/questions/57166931/converting-from-tbl-to-csv-format-using-python)
+- [HTML Scraping — The Hitchhiker's Guide to Python](https://docs.python-guide.org/scenarios/scrape/)
+- [Curses on Python](https://docs.python.org/3/howto/curses.html)
+- [Curses Programming in Python](https://www.devdungeon.com/content/curses-programming-python)
 
 ## Google services
 - [Google map localization](https://developers.google.com/maps/documentation/javascript/localization)
@@ -32,3 +37,4 @@ Useful guides around the web
 ## OBS
 
 - [Where to install OBS plugins? (OBS flatpack from Software manager)](https://forums.linuxmint.com/viewtopic.php?t=278509)
+
