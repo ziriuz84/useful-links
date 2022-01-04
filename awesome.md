@@ -24,3 +24,4 @@ I love awesome lists. Here are the best ones
 - [Books](https://github.com/learn-anything/books)
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 - [Awesome Italia Projects](https://github.com/italia/awesome-italia)
+- [Awesome alternatives in rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)

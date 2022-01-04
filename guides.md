@@ -27,9 +27,20 @@ Useful guides around the web
 - [HTML Scraping — The Hitchhiker's Guide to Python](https://docs.python-guide.org/scenarios/scrape/)
 - [Curses on Python](https://docs.python.org/3/howto/curses.html)
 - [Curses Programming in Python](https://www.devdungeon.com/content/curses-programming-python)
+- [configparser](https://docs.python.org/3/library/configparser.html)
+- [Is there an equivalent of a GUI text field in urwid?](https://stackoverflow.com/questions/52022264/is-there-an-equivalent-of-a-gui-text-field-in-urwid)
+- [File Searching using Python - GeeksforGeeks](https://www.geeksforgeeks.org/file-searching-using-python/)
+- [Sync mastodon toot and Telegram channel or group in both direction](https://pythonawesome.com/sync-mastodon-toot-and-telegram-channel-or-group-in-both-direction/)
+
+## CSS
+
+- [How to Make YouTube Video Embeds Responsive With CSS](https://techstacker.com/how-to-responsive-youtube-videos/)
+- [Come simulare ricerche google geolocalizzate in tutte le città italiane e all’estero](https://codeconvey.com/make-html5-youtube-embed-video-fully-responsive/)
 
 ## Google services
 - [Google map localization](https://developers.google.com/maps/documentation/javascript/localization)
+- [Come simulare ricerche google geolocalizzate in tutte le città italiane e all’estero](https://diegocalderini.it/come-simulare-ricerche-geolocalizzate-citta-italia-estero/)
+- [Guida definitiva per manipolare la geolocalizzazione dei risultati di Google - Eternal Curiosity](https://eternalcuriosity.it/guida-definitiva-per-manipolare-la-geolocalizzazione-dei-risultati-di-google)
 
 ## Bootstrap
 - [Bootstrap tutorial](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
