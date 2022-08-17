@@ -98,6 +98,7 @@ Useful software and frameworks
 
 - [Umbrel](https://github.com/getumbrel/umbrel)
 - [Radicale - Free and Open-Source CalDAV and CardDAV Server](https://radicale.org/)
+- [n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool.](https://github.com/n8n-io/n8n)
 
 
 ## Various
@@ -107,3 +108,4 @@ Useful software and frameworks
 - [KeepassXC Integration in Qutebrowser](https://github.com/ususdei/qute-keepassxc)
 - [Stocazzo as a Service](https://github.com/dottorblaster/stocazzo)
 - [README.md editor](https://github.com/octokatherine/readme.so)
+- [stevemao/github-issue-templates: A collection of GitHub issue and pull request templates](https://github.com/stevemao/github-issue-templates/)

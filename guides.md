@@ -6,6 +6,7 @@ Useful guides around the web
 
 - [Corso di Ingegneria del Software](http://www.dia.uniroma3.it/~pizzonia/swe/)
 - [Guida in italiano a Visidata](https://github.com/ondata/guidaVisiData/tree/master/testo)
+- [Must-have open source Cheatsheet for 2022](https://opensource.com/article/22/1/open-source-cheat-sheets)
 
 ## Jekyll
 - [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
@@ -49,3 +50,6 @@ Useful guides around the web
 
 - [Where to install OBS plugins? (OBS flatpack from Software manager)](https://forums.linuxmint.com/viewtopic.php?t=278509)
 
+## Gettext
+
+- [Gettext : How to update po and pot files after the source is modified](https://stackoverflow.com/questions/7496156/gettext-how-to-update-po-and-pot-files-after-the-source-is-modified)
