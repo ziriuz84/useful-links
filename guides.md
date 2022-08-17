@@ -32,11 +32,22 @@ Useful guides around the web
 - [Is there an equivalent of a GUI text field in urwid?](https://stackoverflow.com/questions/52022264/is-there-an-equivalent-of-a-gui-text-field-in-urwid)
 - [File Searching using Python - GeeksforGeeks](https://www.geeksforgeeks.org/file-searching-using-python/)
 - [Sync mastodon toot and Telegram channel or group in both direction](https://pythonawesome.com/sync-mastodon-toot-and-telegram-channel-or-group-in-both-direction/)
+- [A Practical Guide to Using Setup.py](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
+- [Execute Input Validation in Python](https://www.delftstack.com/howto/python/input-validation-python/)
+- [cProfile - How to profile your python code](https://www.machinelearningplus.com/python/cprofile-how-to-profile-your-python-code/)
+- [Python f-strings can do more than you thought](https://www.youtube.com/watch?v=BxUxX1Ku1EQ)
+- [25 nooby Python habits you need to ditch](https://www.youtube.com/watch?v=qUeud6DvOWI)
+- [Learn to become a modern Python developer](https://roadmap.sh/python)
 
 ## CSS
 
 - [How to Make YouTube Video Embeds Responsive With CSS](https://techstacker.com/how-to-responsive-youtube-videos/)
 - [Come simulare ricerche google geolocalizzate in tutte le città italiane e all’estero](https://codeconvey.com/make-html5-youtube-embed-video-fully-responsive/)
+- [CSS pop up box with overlay](https://codepen.io/mattmuroya/pen/bVBqOV)
+
+## JS
+
+- [In-Page Filtered Search With Vanilla JavaScript](https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/)
 
 ## Google services
 - [Google map localization](https://developers.google.com/maps/documentation/javascript/localization)

@@ -25,3 +25,4 @@ I love awesome lists. Here are the best ones
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 - [Awesome Italia Projects](https://github.com/italia/awesome-italia)
 - [Awesome alternatives in rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
+- [myles/awesome-static-generators: A curated list of static web site generators](https://github.com/myles/awesome-static-generators)
